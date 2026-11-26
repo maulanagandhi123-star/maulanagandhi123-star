@@ -20,7 +20,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **Status:** Mahasiswa Teknologi Informasi
+- 🎓 **Status:** Mahasiswa Teknologi Informasi UIN Salatiga
 - 🎯 **Fokus:** Web & Mobile App Development
 - 💡 **Ketertarikan:** Software Engineering & UI/UX Design
 
