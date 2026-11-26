@@ -8,8 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=maulanagandhi123-star&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<br/>
-
 <!-- 2. SLOT BAR HEADER -->
 <img src="img/github-header-banner.png" alt="Header Bar" width="100%" />
 
@@ -21,7 +19,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **Status:** Mahasiswa S1 Teknologi Informasi — UIN Salatiga
+- 🎓 **Status:** Mahasiswa S3 Teknologi Informasi UIN Salatiga
 - 🎯 **Fokus:** Mobile App Development (Flutter/Dart) & Web Development
 - 💡 **Ketertarikan:** Software Engineering & UI/UX Design (Figma)
 - 🚀 **Sedang Mengembangkan:** Aplikasi Mobile *Trigantara Trans* (Bus Ticketing App) & Website Walipedia untuk Portofolio
@@ -32,12 +30,12 @@
   <summary><b>💻 Hardware Rig & Workspace Setup (Klik untuk membuka)</b></summary>
   <br/>
 
-  - **CPU:** Intel Core i5-4590
-  - **GPU:** NVIDIA GeForce GTX 1660 Super
-  - **RAM:** 16 GB DDR3
-  - **OS:** Windows 10 (75Hz Display)
-  - **Code Editor:** Visual Studio Code
-  - **UI/UX & Graphics:** Figma, Draw.io, Canva, Blender
+- **CPU:** Intel Core i5-4590
+- **GPU:** NVIDIA GeForce GTX 1660 Super
+- **RAM:** 16 GB DDR3
+- **OS:** Windows 10 (75Hz Display)
+- **Code Editor:** Visual Studio Code
+- **UI/UX & Graphics:** Figma, Draw.io, Canva, Blender
 </details>
 
 ---
@@ -78,12 +76,23 @@
 
 ---
 
+### 🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maulanagandhi123-star/maulanagandhi123-star/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maulanagandhi123-star/maulanagandhi123-star/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maulanagandhi123-star/maulanagandhi123-star/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://instagram.com/ganz_maou14" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:emailkamu@gmail.com">
+  <a href="mailto:maulanagandhi123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com" target="_blank">
