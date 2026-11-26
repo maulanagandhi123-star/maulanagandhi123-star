@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- 3. GIF ANIMASI -->
-<img src="https://media.giphy.com/media/xxURS9KvySZnwlZmj4/giphy.gif" alt="Elaina GIF" width="500px" />
+<img src="https://media1.tenor.com/m/LT_WV9j6FBEAAAAd/majo-no-tabitabi-the-journey-of-elaina.gif" alt="Elaina GIF" width="500px" />
 
 </div>
 
