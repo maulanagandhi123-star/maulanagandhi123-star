@@ -8,14 +8,10 @@
 <!-- 2. SLOT BAR HEADER (Ganti path/URL gambar bar kamu jika sudah ada) -->
 <img src="img/github-header-banner.png" alt="Header Bar" width="100%" />
 
-<br/><br/>
-
 <!-- 3. GIF ANIMASI -->
 <img src="https://media1.tenor.com/m/LT_WV9j6FBEAAAAd/majo-no-tabitabi-the-journey-of-elaina.gif" alt="Elaina GIF" width="500px" />
 
 </div>
-
-<br/>
 
 ---
 
